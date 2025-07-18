@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_badminton_rental_system_simple_FILE /Users/Mac/Downloads/Coding/HCMUS/OOP/Project/Badminton-Rental-System/build/badminton_rental_system_simple)
+set(__QT_DEPLOY_TARGET_badminton_rental_system_simple_TYPE EXECUTABLE)

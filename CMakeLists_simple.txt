@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.10)
+project(BadmintonRentalSystem)
+
+find_package(Qt6 REQUIRED COMPONENTS Widgets)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+# Create a simple executable first
+add_executable(badminton_rental_system_simple
+    src/main_simple.cpp
+)
+
+target_link_libraries(badminton_rental_system_simple Qt6::Widgets)
+
+# Set the executable name
+set_target_properties(badminton_rental_system_simple PROPERTIES OUTPUT_NAME "badminton_rental_system_simple")

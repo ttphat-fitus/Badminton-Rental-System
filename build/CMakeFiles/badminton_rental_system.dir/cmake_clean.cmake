@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/badminton_rental_system.dir/src/controllers/auth_controller.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/controllers/auth_controller.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/controllers/booking_controller.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/controllers/booking_controller.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/controllers/court_controller.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/controllers/court_controller.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/controllers/notification_controller.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/controllers/notification_controller.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/main.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/main.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/models/booking.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/models/booking.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/models/court.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/models/court.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/models/notification.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/models/notification.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/models/user.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/models/user.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/utils/database_manager.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/utils/database_manager.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/utils/date_utils.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/utils/date_utils.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/utils/email_service.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/utils/email_service.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/views/booking_widget.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/views/booking_widget.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/views/court_management_widget.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/views/court_management_widget.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/views/login_window.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/views/login_window.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/views/main_window.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/views/main_window.cpp.o.d"
+  "CMakeFiles/badminton_rental_system.dir/src/views/statistics_widget.cpp.o"
+  "CMakeFiles/badminton_rental_system.dir/src/views/statistics_widget.cpp.o.d"
+  "badminton_rental_system"
+  "badminton_rental_system.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/badminton_rental_system.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

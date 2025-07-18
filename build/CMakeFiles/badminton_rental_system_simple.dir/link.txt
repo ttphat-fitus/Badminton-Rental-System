@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch x86_64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/badminton_rental_system_simple.dir/src/main_simple.cpp.o -o badminton_rental_system_simple  -Wl,-rpath,/opt/anaconda3/lib /opt/anaconda3/lib/libQt5Widgets.5.15.2.dylib /opt/anaconda3/lib/libQt5Gui.5.15.2.dylib /opt/anaconda3/lib/libQt5Core.5.15.2.dylib
